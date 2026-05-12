@@ -12,6 +12,7 @@ extern "C" {
 #include <Limelight.h>
 #include <libavcodec/avcodec.h>
 #include <libavutil/hwcontext_d3d11va.h>
+#include <libavutil/frame.h>
 #include <libswscale/swscale.h>
 }
 
